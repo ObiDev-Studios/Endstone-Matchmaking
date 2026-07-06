@@ -1,9 +1,0 @@
-{
-  "resource_pack_name": "matchmaking",
-  "texture_name": "atlas.items",
-  "texture_data": {
-    "matchmaking:leave_lobby_compass": {
-      "textures": "textures/items/leave_lobby_compass"
-    }
-  }
-}

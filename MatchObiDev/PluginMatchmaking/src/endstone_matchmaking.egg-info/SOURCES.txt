@@ -1,9 +1,0 @@
-LICENSE.txt
-pyproject.toml
-src/endstone_matchmaking.egg-info/PKG-INFO
-src/endstone_matchmaking.egg-info/SOURCES.txt
-src/endstone_matchmaking.egg-info/dependency_links.txt
-src/endstone_matchmaking.egg-info/entry_points.txt
-src/endstone_matchmaking.egg-info/top_level.txt
-src/enstone_matchmaking/__init__.py
-src/enstone_matchmaking/plugin.py
