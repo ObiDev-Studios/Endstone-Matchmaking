@@ -1,0 +1,22 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "Matchmaking RP",
+    "description": "Resource pack for Matchmaking Plugin.",
+    "uuid": "d2f8bb36-7d9b-4f7d-a87d-3d5b8c7c6e21",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 80]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "6e8d0f95-2e9d-44f0-8b1c-5d4f4f7b2a11",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["ObiDev-Studios"],
+    "url": "https://github.com/ObiDev-Studios",
+    "license": "All Rights Reserved"
+  }
+}
