@@ -1,0 +1,15 @@
+Copyright (c) 2026 [ObiDev-Studios]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files, to use,
+copy, modify, and redistribute the Software, subject to the following conditions:
+
+1. The original author name must be kept visible in the source code,
+   README, and any redistributions of the Software.
+2. Any modified version must preserve a clear credit to the original author.
+3. The Software may not be sold, resold, sublicensed for payment, or included
+   in any paid package without the explicit written permission of the original author.
+4. This permission does not transfer ownership of the Software.
+5. The Software is provided "as is", without warranty of any kind.
+
+By using, modifying, or redistributing the Software, you agree to these terms.

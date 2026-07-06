@@ -1,0 +1,2 @@
+[endstone]
+matchmaking = enstone_matchmaking:Matchmaking
