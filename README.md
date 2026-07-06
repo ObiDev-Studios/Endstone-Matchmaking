@@ -23,6 +23,7 @@ Players can join a queue, be assigned to a lobby, leave the queue or lobby using
 ## Minigame integration
 
 This plugin is designed to connect to another plugin; otherwise, it will not be able to determine whether a game is in progress.
+
 You simply need to replace the command name and the lobby name, correctly configure the HUD and lobby coordinates, and then repeat the process for each mini-game.
 
 ## In Development
