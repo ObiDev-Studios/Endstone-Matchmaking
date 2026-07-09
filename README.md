@@ -1,7 +1,5 @@
 # Endstone Matchmaking
 
-Generic matchmaking plugin for **Endstone** servers.
-
 This plugin provides a simple queue and lobby system for a mini-game server.
 Players can join a queue, be assigned to a lobby, leave the queue or lobby using an item, and automatically start a game when a sufficient number of players are available.
 
